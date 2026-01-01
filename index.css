@@ -75,6 +75,16 @@ header a:active {
 }
 
 #hero{
+    background-image: url(media/c6f42df5-4ef7-4931-95a0-721c9629e783.jpeg);
+    background-size: cover;
+    background-position: center center;
+}
+
+#superposicion{
+    position: absolute;
+    background: rgba(0, 0, 0,0.5);
+    height: 90vh;
+    z-index: 1;
     margin: 0;
     padding: 0;
     display: flex;
@@ -84,14 +94,4 @@ header a:active {
     align-items: center;
     height: 90vh;
     color: white;
-    background-image: url(media/c6f42df5-4ef7-4931-95a0-721c9629e783.jpeg);
-    background-size: cover;
-    background-position: center center;
-}
-
-/* #superposicion{
-    position: absolute;
-    background: rgba(0, 0, 0,0.5);
-    height: 90vh;
-    z-index: 1;
 }

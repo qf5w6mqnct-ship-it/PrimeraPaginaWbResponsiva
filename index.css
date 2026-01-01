@@ -61,3 +61,7 @@ header nav{
     align-items: center;
     padding-bottom: 25px;
 }
+
+header a{
+    padding: 10px 25px;
+}

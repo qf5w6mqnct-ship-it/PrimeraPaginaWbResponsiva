@@ -12,7 +12,7 @@ button{
     font-weight: bold;
     padding: 10px 30px;
     background-color: rgb(205, 92, 92);
-    box-shadow: ;
+    box-shadow:2px 2px 10px;
     color: black;
     border: 2px solid black;
     border-radius: 100%;

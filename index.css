@@ -21,7 +21,10 @@ button{
 button:hover{
     background-color: rgb(240, 128, 128);
 }
+button:active{
+    background-color: rgb(240, 128, 128);
 
+}
 
 body{
     margin: 0;

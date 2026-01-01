@@ -93,6 +93,5 @@ header a:active {
     position: absolute;
     background: rgba(0, 0, 0,0.5);
     height: 90vh;
-    width: 100%;
     z-index: 1;
 }

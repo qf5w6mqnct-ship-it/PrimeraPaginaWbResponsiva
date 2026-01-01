@@ -49,5 +49,8 @@ header .container{
 }
 
 header .logo{
-    
+    font-size: 2em;
+    color: rgb(250, 128, 114);
+    font-weight: bold;
+    font-family: "BBH Bartle";
 }

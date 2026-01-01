@@ -89,3 +89,7 @@ header a:active {
     background-position: center center;
 }
 
+.superposicion{
+    position: absolute;
+    background: rgba(0, 0, 0, 0,5);
+}

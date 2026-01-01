@@ -91,7 +91,7 @@ header a:active {
 
 #superposicion{
     position: absolute;
-    background: rgba(0, 0, 0, 1);
+    background: rgba(0, 0, 0,0.5a);
     height: 100%;
     width: 100%;
     z-index: 1;

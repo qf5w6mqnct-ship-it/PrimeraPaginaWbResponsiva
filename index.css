@@ -137,5 +137,10 @@ header a:active {
 
 #carta1{
     background-image: url(media/c1.jpeg);
-    
+}
+#carta2{
+    background-image: url(media/c2.jpeg);
+}
+#carta3{
+    background-image: url(media/c3.jpeg);
 }

@@ -74,6 +74,7 @@ header a:active {
     color: rgb(205, 92, 92b);
 }
 
+/** Acaba cabecera empieza hero**/
 #hero{
     display: flex;
     text-align: center;
@@ -85,4 +86,15 @@ header a:active {
     background-image: url(media/hero.jpeg);
     background-size: cover;
     background-position: center center;
+}
+
+/**Acaba hero, empieza nueva seccion (significado)**/
+#significado{
+    background:rgb(245, 245, 245);
+}
+
+#significado .container{
+    padding: 200px 12px;
+    text-align: center;
+
 }

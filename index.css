@@ -106,7 +106,7 @@ header a:active {
 /**Termina seccion (significado), empieza nueva (diccionario)**/
 
 .diccionario{
-    background-color: rgba(0,0,0,0.45);
+    background-color: rgb(205, 92, 92);
     color:black;
     text-align: center;
 }
@@ -121,7 +121,7 @@ header a:active {
 }
 
 .cartas{
-    flex: 1;
+    flex: 1
     min-height: 300px;
     padding: 20px;
 

@@ -112,12 +112,17 @@ header a:active {
 }
 
 .diccionario h2{
-    padding-top: 70px;
+    padding-top: 50px;
 }
 
 .diccionario .container{
     padding: 50px 20px;
     display: flex;
     flex-direction: row;
+}
 
+.diccionario .cartas{
+    border: 1px solid black;
+    border-radius: 25%;
+    background-color: rgba(0, 0, 0, 0.2);
 }

@@ -113,6 +113,7 @@ header a:active {
 
 .diccionario h2{
     padding-top: 50px;
+    -webkit-text-stroke: 0px;
 }
 
 .diccionario .container{
@@ -132,7 +133,7 @@ header a:active {
     border: 2px solid black;
     border-radius: 12px;
     color: black;
-    -webkit-text-stroke: 2px white;
+    -webkit-text-stroke: 0.3px rgb(205, 92, 92);
     margin: 0px 10px 50px 10px;
 }
 

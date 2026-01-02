@@ -109,10 +109,11 @@ header a:active {
     background-color: rgb(205, 92, 92);
     color:black;
     text-align: center;
+    padding: 20px auto;
 }
 
 .diccionario .container{
-    padding: 100px 20px;
+    padding: 50px 20px;
     display: flex;
     flex-direction: row;
 

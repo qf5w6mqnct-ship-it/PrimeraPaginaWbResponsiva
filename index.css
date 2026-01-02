@@ -116,12 +116,12 @@ header a:active {
 }
 
 .diccionario .container{
-    padding: 50px 20px;
     display: flex;
-    flex-direction: row;
+    gap: 20px;
 }
 
 .cartas{
+    flex: 1;
     min-height: 300px;
     padding: 20px;
 

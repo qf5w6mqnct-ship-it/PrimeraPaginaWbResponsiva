@@ -121,8 +121,6 @@ header a:active {
     flex-direction: row;
 }
 
-.diccionario .cartas{
+#carta1, #carta2, #carta3{
     border: 1px solid black;
-    border-radius: 25%;
-    background-color: rgba(0, 0, 0, 0.2);
 }

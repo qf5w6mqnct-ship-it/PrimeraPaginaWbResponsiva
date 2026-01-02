@@ -130,6 +130,8 @@ header a:active {
     background-repeat: no-repeat;
     
     border-radius: 12px;
+    color: white;
+    margin: 0px 2px 10px 2px;
 }
 
 #carta1{

@@ -121,9 +121,17 @@ header a:active {
     flex-direction: row;
 }
 
-#carta1{
-    background-image: url(media/c1.jpeg);
+.cartas{
+    min-height: 300px;
+    padding: 20px;
+
     background-size: cover;
     background-position: center center;
-    position: absolute;
+    background-repeat: no-repeat;
+    
+    border-radius: 12px;
+}
+
+#carta1{
+    background-image: url(media/c1.jpeg);
 }

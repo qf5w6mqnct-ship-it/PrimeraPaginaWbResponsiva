@@ -90,7 +90,7 @@ header a:active {
 
 /**Acaba hero, empieza nueva seccion (significado)**/
 #significado{
-    background:rgb(245, 245, 245);
+    background:white;
 }
 
 #significado .container{

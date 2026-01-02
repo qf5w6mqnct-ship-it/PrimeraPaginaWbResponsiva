@@ -113,6 +113,7 @@ header a:active {
 
 .diccionario .container{
     padding: 100px 20px;
-    
+    display: flex;
+    flex-direction: row;
 
 }

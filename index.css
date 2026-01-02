@@ -125,4 +125,5 @@ header a:active {
     background-image: url(media/c1.jpeg);
     background-size: cover;
     background-position: center center;
+    position: absolute;
 }

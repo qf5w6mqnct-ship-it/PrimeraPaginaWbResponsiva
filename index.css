@@ -111,6 +111,10 @@ header a:active {
     text-align: center;
 }
 
+.diccionario h2{
+    margin-top: 50px;
+}
+
 .diccionario .container{
     padding: 50px 20px;
     display: flex;

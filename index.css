@@ -126,14 +126,15 @@ header a:active {
     min-height:300px;
     padding: 20px;
 
+    background-color: rgba(255,255,255, 0.6);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     
     border: 2px solid black;
     border-radius: 12px;
+
     color: black;
-    -webkit-text-stroke: 0.3px rgb(205, 92, 92);
     margin: 0px 10px 50px 10px;
 }
 

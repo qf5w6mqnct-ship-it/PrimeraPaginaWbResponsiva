@@ -119,7 +119,7 @@ header a:active {
 
 .diccionario h2{
     padding-top: 50px;
-    -webkit-text-stroke: 0px;
+    
 }
 
 .diccionario .container{
@@ -151,4 +151,15 @@ header a:active {
 }
 #carta3{
     background-image: url(media/c3.jpeg);
+}
+
+/**Acaba seccion cartas empieza seccion frases**/
+
+#frases{
+    background-color: white;
+}
+
+#frases .container{
+    display: flex;
+    flex-direction: row;
 }

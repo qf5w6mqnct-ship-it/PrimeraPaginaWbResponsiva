@@ -180,7 +180,7 @@ header a:active {
     color: rgb(250, 128, 114);
 }
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
     header{
         width:100vh;
 

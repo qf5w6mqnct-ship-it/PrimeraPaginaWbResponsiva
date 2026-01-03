@@ -162,9 +162,12 @@ header a:active {
 #frases .container{
     display: flex;
     flex-direction: row;
-    border: 1px solid black;
+    
     
     padding: 20px;
     margin-top: 20px;
 }
 
+#frases .container li{
+    border: 1px solid black;
+}

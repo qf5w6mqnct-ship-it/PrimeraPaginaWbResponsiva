@@ -173,3 +173,8 @@ header a:active {
     padding: 20px;
     margin-top: 20px;
 }
+
+#frases span{
+    font-weight: bold;
+    font-family:"BBH Bartle";
+}

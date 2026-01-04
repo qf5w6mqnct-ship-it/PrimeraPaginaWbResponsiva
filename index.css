@@ -180,15 +180,11 @@ header a:active {
     color: rgb(250, 128, 114);
 }
 
-@media (max-width: 450px) {
+@media (max-width: 1200px) {
 
     body{
         margin: 0;
         padding: 0;
-    }
-
-    .container{
-        width: 100%;
     }
 
     header{

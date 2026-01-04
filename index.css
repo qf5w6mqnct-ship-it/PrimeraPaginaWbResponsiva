@@ -192,4 +192,8 @@ header a:active {
         height: 30vh;
         background-color: rgb(245, 245, 245);
     }
+
+    header .container{
+        align-items: center;
+    }
 }
